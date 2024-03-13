@@ -40,6 +40,7 @@ import com.badlogic.gdx.tests.*;
 import com.badlogic.gdx.tests.bench.TiledMapBench;
 import com.badlogic.gdx.tests.conformance.AudioSoundAndMusicIsolationTest;
 import com.badlogic.gdx.tests.conformance.DisplayModeTest;
+import com.badlogic.gdx.tests.conformance.AudioPanningTest;
 import com.badlogic.gdx.tests.examples.MoveSpriteExample;
 import com.badlogic.gdx.tests.extensions.FreeTypeAtlasTest;
 import com.badlogic.gdx.tests.extensions.FreeTypeDisposeTest;
@@ -121,6 +122,7 @@ public class GdxTests {
 		AtlasIssueTest.class,
 		AudioChangeDeviceTest.class,
 		AudioDeviceTest.class,
+		AudioPanningTest.class,
 		AudioRecorderTest.class,
 		AudioSoundAndMusicIsolationTest.class,
 		Basic3DSceneTest.class,

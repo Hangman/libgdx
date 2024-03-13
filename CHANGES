@@ -10,6 +10,7 @@
 - Fix: Keep SelectBox popup from extending past right edge of stage.
 - Added Framebuffer multisample support (see GL31FrameBufferMultisampleTest.java for basic usage)
 - Fixed playback volume of mono sounds and improved panning quality
+- LWJGL3: Enabled panning for stereo sound sources
 
 [1.12.1]
 - LWJGL3 Improvement: Audio device is automatically switched if it was changed in the operating system.
